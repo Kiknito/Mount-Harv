@@ -66,9 +66,4 @@ Slide through snowy mountains, avoid obstacles, and push your reflexes to the li
 - C#  
 - Mobile Optimization  
 
----
 
-## 📥 Installation
-
-```bash
-git clone https://github.com/yourusername/mount-harv.git
