@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Logo.png" alt="Mount Harv Logo" width="80"/><br>
+  <img src="Logo.png" alt="Mount Harv Logo" width="50"/>
   Mount Harv
 </h1>
 
