@@ -1,4 +1,7 @@
-<h1 align="center">🏔️ Mount Harv</h1>
+<h1 align="center">
+  <img src="Logo.png" alt="Mount Harv Logo" width="80"/><br>
+  Mount Harv
+</h1>
 
 <p align="center">
   <b>Fast. Cold. Unforgiving.</b><br>
