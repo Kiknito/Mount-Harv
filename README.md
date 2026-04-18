@@ -44,7 +44,9 @@ Slide through snowy mountains, avoid obstacles, and push your reflexes to the li
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="600"/>
+  <img src="Screenshot/1.png" width="600"/>
+   <img src="Screenshot/2.png" width="600"/>
+   <img src="Screenshot/3.png" width="600"/>
 </p>
 
 ---
